@@ -1,0 +1,60 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+h1 {
+  color: rgb(105, 102, 102);
+  font-size: 20px;
+}
+
+h2 {
+  color: rgb(119, 116, 116);
+  font-size: 16px;
+}
+
+.card {
+  margin: 60px auto;
+  padding: 20px;
+  width: 70%;
+}
+
+.current-weather-area {
+  margin: 20px 40px;
+}
+
+.cloud-icon {
+  color: rgb(27, 27, 27);
+  font-size: 30px;
+  margin: 10px;
+}
+
+.forecast-area {
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
+
+.rain-icon {
+  color: rgb(27, 27, 27);
+  font-size: 30px;
+  margin: 10px;
+}
+
+.search-element {
+  margin: 20px auto;
+  width: 90%;
+}
+
+.sun-icon {
+  color: rgb(27, 27, 27);
+  font-size: 30px;
+  margin: 10px;
+}
+
+.sun-main-icon {
+  color: rgb(233, 233, 12);
+  font-size: 50px;
+}
